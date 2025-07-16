@@ -1,0 +1,2 @@
+flyctl deploy
+fly open
